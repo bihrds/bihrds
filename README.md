@@ -2,7 +2,6 @@
 
 - ✨ Atualmente trabalhando no setor de integrações internas na JetSales Brasil
 - ✨ Graduanda de Ciências da Computação pela UFS - Universidade Federal de Sergipe
-- ✨ Pronomes: ela/dela
 
 <div style="display: flex; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bihrds&show_icons=true&theme=tokyonight&count_private=true"/>
